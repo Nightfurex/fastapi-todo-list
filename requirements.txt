@@ -1,0 +1,12 @@
+email-validator==1.1.2
+fastapi==0.62.0
+PyJWT==1.7.1
+python-decouple==3.3
+uvicorn==0.12.3
+motor == 2.4.0
+python-decouple==3.3
+email-validator==1.1.2
+passlib==1.7.4
+python-jose==3.3.0
+python-multipart==0.0.5
+bcrypt==3.2.0
